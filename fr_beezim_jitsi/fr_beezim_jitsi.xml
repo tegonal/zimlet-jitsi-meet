@@ -2,6 +2,6 @@
     <include>fr_beezim_jitsi.js</include>
     <handlerObject>fr_beezim_jitsi</handlerObject>
     <userProperties>
-        <property type="string" name="JistiURL" value="https://meet.jit.si/"/>
+        <property type="string" name="JistiURL" value="https://meet.tegonal.com/"/>
     </userProperties>
 </zimlet>
